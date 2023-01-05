@@ -1,0 +1,36 @@
+<div id="mt-%id" class="item">
+<div class="image">
+   <a href="/MinSrv/posts?hdiuudhufsdgfyusiagfuysai7tq782g76g2yrgf23gryu2gyugr2yuu72g378gfr76dsagibSD7UGTVFSD786VGSA78FGV78SAG7V8T78SGfhduihfh=%nume">
+ <img src="%image" alt="%titlu" width="100%" height="100%">
+  <span class="player"></span>
+  <span class="imdb"><b><b class="icon-star"></b></b> %rate</span>
+  </div>
+  </a>
+  <div class="boxinfo left">
+    <span class="tt">%titlu</span>
+     <span class="ttx">
+		%descriere
+     <div class="degradado">
+     </div>
+      </span>
+       </a>
+       <div class="cocs imdb_r">
+       <div class="a">
+        <span class="imdbs">%rate</span>
+        </div>
+        <div class="b">
+        <div class="bar">
+        <span style="width: %rating%">
+        </span>
+        </div>
+         <span class="dato">TMDb: <b>%rate/10</b></span>
+         </div>
+         </div>
+         <div class="typepost">serial</div>
+         </div>
+         <div class="fixyear"
+         ><h2>%titlu</h2>
+          <span class="year">%an</span>
+          </div>
+           <span class="calidad2">%desc2</span>
+</div>

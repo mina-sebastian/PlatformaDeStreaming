@@ -1,0 +1,45 @@
+<div id="contenedor">
+<div class="tvshows_single contenido">
+<div class="buscaformulario" style="display: none;">
+</div>
+<div id="series">
+<div class="ladoA">
+<div id="fixar" class="">
+<div class="imagen">
+ <a href="/MinSrv/serial">
+  <img src="%img">
+ </a>
+ </div>
+ <div class="meta-b">
+  <span class="metx bccx"><i>%sezon</i> Sezonul </span>
+  <span class="metx"><i>%episod</i> Episodul </span>
+  </div>
+  </div>
+  </div>
+  <div class="ladoB">
+  <div class="central">
+  <div class="cover" style="background-image:url(%cover)">
+   <h1 itemprop="name">%nume</h1>
+   <div class="degradado">
+   </div>
+  </div>
+  <div class="metax1">
+<div class="epinav">
+<a class="navtv" href="/MinSrv/serial?%ant" style="display: %isant;">
+<b>Anterior</b>
+</a>
+<a class="navtv" href="/MinSrv/serial?%next" style="display: %isnext;">
+<b>Urmator</b>
+</a>
+</div>
+  <div id="streaming" style="display: block;">
+  <div style="text-align:center;"><div id="datamovie">
+<div class="player2">
+<div class="embed2">
+
+<div id="player21" style="display: block;"><p>
+<iframe src="%link" scrolling="no" width="700" height="900" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></p></div>
+</div>
+
+</div>
+</div></div></div></div></div></div></div></div>

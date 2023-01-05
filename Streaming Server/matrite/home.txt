@@ -1,0 +1,17 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="css/ind.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body id="bodyplus">
+<div id="contenedor">
+<div class="contenido"
+><div class="buscaformulario">
+</div>
+<div class="box">
+<div class="box_item">
+<div class="peliculas">
+<div class="item_1 items">%content</div></div></div>
+ <div id="footer" class=""> <span class="texto"> <b>    Drepturile nu sunt rezervate. Ia ce vrei :)</b></span><b> <span class="copyright"> </span></b></div></div></div>
+</body>

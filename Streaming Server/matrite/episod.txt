@@ -1,0 +1,9 @@
+<ul class="episodios">
+<li>
+<div class="numerando">%sezon x %episod</div>
+<div class="episodiotitle">
+ <a href="/MinSrv/serial?%link=%sezonx%episod">Episodul %episod
+  <span class="date">%an</span></a>
+</div>
+</li>
+</ul>

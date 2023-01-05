@@ -1,0 +1,21 @@
+<div id="contenedor">
+<div class="tvshows_single contenido">
+<div id="series">
+<div class="ladoA">
+<div id="fixar" class="">
+<div class="imagen">
+ <img src="%image" itemprop="image" alt="%titlu">
+ </div>
+ <div class="meta-b">
+  <span class="metx bccx"><i>%sezoane</i> Sezoane </span><span class="metx"><i>%episoade</i> Episoade </span>
+  </div></div></div>
+  <div class="ladoB">
+  <div class="central">
+  <div class="cover" style="background-image:url(%cover)">
+    <h1 itemprop="name">%titlu</h1>
+  </div>
+   <ul class="navtv idTabs"><li><a class="episodes selected">Episoade</a></li></ul>
+<div id="seasons" style="display: block;">
+	%sezoanelist
+</div>
+</div></div></div></div></div>

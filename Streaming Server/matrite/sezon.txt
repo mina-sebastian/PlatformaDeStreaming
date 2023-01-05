@@ -1,0 +1,21 @@
+<div class="se-c">
+<div class="se-q">
+<button class="title" onclick="m%sezon()" style="background:transparent;border:none;outline:none;display:block;cursor:pointer;color:white;">
+<span class="se-t se-o">%sezon</span>
+ <span class="title">Sezonul %sezon</span>
+</button>
+</div>
+<div class="se-a" id="sdiv%sezon" style="display: none">
+%episoade
+</div>
+<script>
+function m%sezon() {
+    var x = document.getElementById("sdiv%sezon");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+</div>

@@ -1,0 +1,8 @@
+<div class="epinav">
+<a class="navtv" href="%ant" style="display: %isant;">
+<b>Anterior</b>
+</a>
+<a class="navtv" href="%next" style="display: %isnext;">
+<b>Urmator</b>
+</a>
+</div>
