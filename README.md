@@ -1,7 +1,7 @@
 **Streaming Platform**
 
 **Overview:**
-The Streaming Platform Client is a comprehensive solution designed to manage and facilitate online communities. It consists of both client and server applications, offering a feature-rich environment for user interaction, content management, and system administration. The project provides tools for creating and managing posts, episodes, and serials, as well as handling user authentication, authorization, and role-based access control.
+The Streaming Platform Client is a solution designed to manage and facilitate online communities. It consists of both client and server applications, offering an environment for user interaction, content management, and system administration. The project provides tools for creating and managing posts, episodes, and series, as well as handling user authentication, authorization, and role-based access control.
 
 ---
 
